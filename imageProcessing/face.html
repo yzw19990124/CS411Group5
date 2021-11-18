@@ -1,0 +1,27 @@
+<html>
+<head>
+    <title>Image Processing</title>
+    <style>
+        #myImg{
+            position: absolute;
+            height: 400px;
+            width: 500px;
+        }
+        #mycan{
+            position: absolute;
+        }
+    </style>
+</head>
+<body>
+
+<input id="myFileUpload" type="file" onchange="upload()" accept=".jpg, .jpeg, .png">
+<img src="" id="myImg" alt="please select an image">
+
+<canvas id="mycan"></canvas>
+
+
+<script src="face-api.min.js"></script>
+<script src="default.js"></script>
+
+</body>
+</html>
