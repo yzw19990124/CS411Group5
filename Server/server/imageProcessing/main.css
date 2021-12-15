@@ -1,0 +1,24 @@
+h1{
+    text-align: center;
+    /* color: blue; */
+}
+
+p{
+    text-align: center;
+    color: black;
+}
+
+#pred{
+    text-align: center;
+    color:red;
+}
+
+#pblu{
+    text-align: center;
+    color:blue;
+}
+
+#firstP{
+    text-align: center;
+    color: red;
+}
