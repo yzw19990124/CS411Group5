@@ -1,2 +1,2 @@
-# Emotion Detection Songs Recommandation APP
+# Emotion Detection Songs Recommendation APP
 team assignment
