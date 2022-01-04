@@ -1,2 +1,2 @@
-# CS411Group5
-group five team assignment
+# Emotion Detection Songs Recommandation APP
+team assignment
